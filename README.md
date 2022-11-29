@@ -12,7 +12,7 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
 
 
 
-![Voice Note App](websote/assets/img/voicenote.png)
+![Voice Note App](website/assets/img/voicenote.png)
 <br>
 
 __Project Status - Completed: 29/11/2022__
