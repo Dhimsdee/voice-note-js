@@ -17,7 +17,7 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
 
 __Project Status - Completed: 29/11/2022__
 
-[Demo - Click Here](https://voice-note-app-369001.et.r.appspot.com/) - __Best Used with Chrome__
+[Demo - Click Here](https://voice-note-dhimas-dira.et.r.appspot.com/) - __Best Used with Chrome__
 
 __Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
 <br>
@@ -98,7 +98,7 @@ Description of website technologies used to develop this app.
 ----
 
 
-[Demo - Click Here](https://voice-note-app-369001.et.r.appspot.com/l) - __Best Used with Chrome__
+[Demo - Click Here](https://voice-note-dhimas-dira.et.r.appspot.com/) - __Best Used with Chrome__
 
 __Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
 <br>
